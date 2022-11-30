@@ -1,0 +1,41 @@
+.rosa{
+    background-color: #E83E8C;
+}
+.logo-png{
+    width: 132px;
+    height: 53px;
+}
+header h1{
+    color: #707070;
+}
+
+.ahora-aceptamos{
+    background-color: #17A2B8;
+    width: 1280px;
+    height: 170px;
+    
+    
+}
+
+footer{
+    background-color: #E83E8C;
+    width: 1280px;
+    height: 184px;
+}
+
+footer img{
+    width: 53px;
+    height: 100px;
+
+}
+
+.card{
+    width: 70%;
+}
+
+.ahora-aceptamos h2{
+    text-align: center;
+    align-content: center;
+
+}
+    
